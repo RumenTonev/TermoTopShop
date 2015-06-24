@@ -1,0 +1,9 @@
+D:\Downloads\nopCommerce_3.60_Source\Presentation\Nop.Web\Plugins\SMS.Verizon\Views\SmsVerizon\Configure.cshtml
+D:\Downloads\nopCommerce_3.60_Source\Presentation\Nop.Web\Plugins\SMS.Verizon\Description.txt
+D:\Downloads\nopCommerce_3.60_Source\Presentation\Nop.Web\Plugins\SMS.Verizon\web.config
+D:\Downloads\nopCommerce_3.60_Source\Presentation\Nop.Web\Plugins\SMS.Verizon\logo.jpg
+D:\Downloads\nopCommerce_3.60_Source\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.dll.config
+D:\Downloads\nopCommerce_3.60_Source\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.dll
+D:\Downloads\nopCommerce_3.60_Source\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.pdb
+D:\Downloads\nopCommerce_3.60_Source\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.dll
+D:\Downloads\nopCommerce_3.60_Source\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.pdb
